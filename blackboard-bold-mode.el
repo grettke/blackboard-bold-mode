@@ -15,7 +15,10 @@
 
 (define-minor-mode blackboard-bold-mode
   "Easily insert Unicode mathematical double-struck characters"
-  :lighter " b3")
+  :lighter " b3"
+  :keymap (let ((map (make-sparse-keymap)))
+            (define-key map "A" (lambda () (interactive) (insert "𝔸")))
+            map))
 
 (provide 'blackboard-bold-mode)
 ;;; blackboard-bold-mode.el ends here
