@@ -1,4 +1,4 @@
-;;; package --- Easily insert Unicode mathematical double-struck characters -*- lexical-binding: t -*-
+;;; blackboard-bold-mode.el --- Easily insert Unicode mathematical double-struck characters -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2016 Grant Rettke
 
@@ -6,7 +6,6 @@
 ;; Version: 1.0
 ;; Maintainer: <gcr@wisdomandwonder.com>
 ;; Keywords: Unicode, Double Struck, Blackboard Bold, Math, Mathematical
-;; Filename: blackboard-bold-mode.el
 ;; URL: https://github.com/grettke/blackboard-bold-mode
 
 ;;; Commentary:
