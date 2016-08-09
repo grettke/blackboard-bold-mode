@@ -3,6 +3,7 @@
 ;; Copyright (C) 2016 Grant Rettke
 
 ;; Author: Grant Rettke <gcr@wisdomandwonder.com>
+;; Version: 1.0
 ;; Maintainer: <gcr@wisdomandwonder.com>
 ;; Keywords: Unicode, Double Struck, Blackboard Bold, Math, Mathematical
 ;; Filename: blackboard-bold-mode.el
