@@ -13,6 +13,7 @@
 
 ;;; Code:
 
+;;;###autoload
 (define-minor-mode blackboard-bold-mode
   "Easily insert Unicode mathematical double-struck characters"
   :lighter " b3"
