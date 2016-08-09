@@ -5,6 +5,8 @@
 ;; Author: Grant Rettke <gcr@wisdomandwonder.com>
 ;; Maintainer: <gcr@wisdomandwonder.com>
 ;; Keywords: Unicode, Double Struck, Blackboard Bold, Math, Mathematical
+;; Filename: blackboard-bold-mode.el
+;; URL: https://github.com/grettke/blackboard-bold-mode
 
 ;;; Commentary:
 
